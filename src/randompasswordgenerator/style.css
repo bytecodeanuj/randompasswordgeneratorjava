@@ -1,0 +1,8 @@
+.genBtn{
+    -fx-background-color:  #6A89CC;
+    -fx-background-radius:  10;
+}
+
+.genBtn:hover{
+    -fx-background-color: #3C40C6;
+}
